@@ -28,12 +28,15 @@ Full Stack Developer & Software Engineer passionate about building scalable, cle
 ### 🔮 Tech Stack
 
 **Backend & Programming**
+<br/>
 <img src="https://img.shields.io/badge/C++-7B2CBF?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/C%23-9D4EDD?style=for-the-badge&logo=c-sharp&logoColor=white" /> <img src="https://img.shields.io/badge/Python-7B2CBF?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-9D4EDD?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-7B2CBF?style=for-the-badge&logo=node.js&logoColor=white" /> 
 
 **Frontend & Mobile**
+<br/>
 <img src="https://img.shields.io/badge/Flutter-7B2CBF?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/React-9D4EDD?style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-7B2CBF?style=for-the-badge&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-9D4EDD?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
 **Databases & Tools**
+<br/>
 <img src="https://img.shields.io/badge/MySQL-7B2CBF?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/SSIS-9D4EDD?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-7B2CBF?style=for-the-badge&logo=figma&logoColor=white" />
                                                     
 ---
@@ -41,12 +44,15 @@ Full Stack Developer & Software Engineer passionate about building scalable, cle
 ### 🪻 Concepts & Principles
 
 **Core Foundations**
+<br/>
 <img src="https://img.shields.io/badge/Data_Structures-4B248B?style=for-the-badge&logo=databricks&logoColor=white" /> <img src="https://img.shields.io/badge/Algorithms-7B2CBF?style=for-the-badge&logo=google-cloud&logoColor=white" />
 
 **Architecture & Paradigm**
+<br/>
 <img src="https://img.shields.io/badge/Clean_Architecture-9D4EDD?style=for-the-badge&logo=blueprint&logoColor=white" /> <img src="https://img.shields.io/badge/SOLID_Principles-7B2CBF?style=for-the-badge&logo=dependabot&logoColor=white" /> <img src="https://img.shields.io/badge/OOP-4B248B?style=for-the-badge&logo=object-storage&logoColor=white" />
 
 **Design Patterns**
+<br/>
 <img src="https://img.shields.io/badge/Creational-7B2CBF?style=for-the-badge" /> <img src="https://img.shields.io/badge/Structural-9D4EDD?style=for-the-badge" /> <img src="https://img.shields.io/badge/Behavioral-4B248B?style=for-the-badge" />
 
 ---
