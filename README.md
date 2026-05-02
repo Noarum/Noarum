@@ -59,7 +59,7 @@ Full Stack Developer & Software Engineer passionate about building scalable, cle
 
 ### 🦄 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Noarum&show_icons=true&theme=tokyonight&title_color=9D4EDD&icon_color=9D4EDD&text_color=ffffff&bg_color=0d1117" alt="Stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Noarum&show_icons=true&theme=tokyonight&title_color=9D4EDD&icon_color=9D4EDD&text_color=ffffff&bg_color=0d1117" alt="Stats" />
   <br/>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Noarum&theme=tokyonight&currStreakNum=9D4EDD&fire=9D4EDD&sideNums=9D4EDD&sideLabels=9D4EDD&dates=9D4EDD" alt="Streak" />
