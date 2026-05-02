@@ -1,5 +1,5 @@
 <div align="center">
-
+  
   <img src="https://community.aseprite.org/uploads/default/original/3X/7/9/7996bfe482ea6f37096eb2b4949f58864b16d179.gif"/>
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&lines=Hi👋🏻,+I'm+Nour+Hany;Full+Stack+Developer;Software+Engineer;UI/UX+Designer" alt="Typing SVG" />
